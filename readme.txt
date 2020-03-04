@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 改文件是线上远程仓库的readme文件
 
 这些文字是我次日上班写的
@@ -9,12 +8,14 @@
 Creating a new branch is quick.
 111
 
-<<<<<<< HEAD
 Creating a new branch is quick & simple.
-=======
+
 Creating a new branch is quick AND simple
->>>>>>> feature1
+
 
 dev靠
 
 ss
+
+
+通过图形化界面工具修改内容
